@@ -1,0 +1,7 @@
+{
+  "name": "Interview Partner",
+  "description": "An AI-powered interview coach that provides tailored practice questions, coaching, and actionable feedback based on your resume and the job posting.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
